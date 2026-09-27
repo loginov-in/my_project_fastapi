@@ -6,6 +6,7 @@ app = FastAPI()
 
 
 # пишем тестовую ручку Hello World #
-@app.get("/")
-def test():
-    return {"message": "Hello World"}
+# @app.get("/")
+#def test():
+    #return {"message": "Hello World"} #
+    
